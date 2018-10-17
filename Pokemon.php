@@ -9,7 +9,7 @@ Class Pokemon
 	public $Weakness;
 	public $Resistance;
 	
-	//git
+	//
  
 
 	public function __construct($Name,$Hitpoints,$Health,$Weakness, $Resistance , $EnergyType)
@@ -27,7 +27,7 @@ Class Pokemon
 	public function Attacker()
 	{
 		return $this->Name . " Attacks " .  50 .  " Damage" . " on" . " Charmelon " . "with "; 
-
+//
 	}
 
 	public function GetDamage()

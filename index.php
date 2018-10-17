@@ -27,7 +27,7 @@ echo $p->Attacker();
 
 echo $energytype->EnergyType();
 
-
+//
 
 
 
