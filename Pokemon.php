@@ -9,7 +9,7 @@ Class Pokemon
 	public $Weakness;
 	public $Resistance;
 	
-	
+	//git
  
 
 	public function __construct($Name,$Hitpoints,$Health,$Weakness, $Resistance , $EnergyType)
