@@ -9,7 +9,7 @@ class Resistance
 	{
 		$this->EnergyType = $resistance;	
 	} 
-
+//
 	public function Resistance()
 	{
 		return $this->Resistance;
