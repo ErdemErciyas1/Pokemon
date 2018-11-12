@@ -4,7 +4,7 @@ require 'Pokemon.php';
 require 'EnergyType.php';
 require 'Attack.php';
 
-//
+
 
 $energytype = new EnergyType ("Lightning");
 $energytype2 = new EnergyType ("Solarbeam");

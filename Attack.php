@@ -5,7 +5,7 @@ Class Attack{
 
     public $Attack;
 
-//
+
     function __construct ($attack)
     {
         $this->Attack = $attack;
